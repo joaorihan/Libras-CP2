@@ -14,8 +14,7 @@ Este projeto implementa um sistema de reconhecimento de gestos da Língua Brasil
 │   └── utils.py        # Funções utilitárias
 ├── dados/              # Diretório para armazenamento de dados
 ├── modelo_letras.pkl   # Modelo treinado para reconhecimento
-├── video.mp4           # Vídeo de exemplo
-└── alfabeto_libras.mp4 # Vídeo demonstrativo do alfabeto em Libras
+└── video.mp4           # Vídeo de exemplo
 ```
 
 ## Requisitos
@@ -73,17 +72,3 @@ python programas/main.py
 - `train_model.py`: Responsável pelo treinamento do modelo de machine learning
 - `recognize.py`: Contém a lógica de reconhecimento de gestos
 - `utils.py`: Funções auxiliares para processamento de imagens e dados
-
-## Contribuição
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## Contato
-
-Para mais informações ou dúvidas, entre em contato através do repositório. 
