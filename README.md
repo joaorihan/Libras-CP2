@@ -2,6 +2,17 @@
 
 Este projeto implementa um sistema de reconhecimento de gestos da Língua Brasileira de Sinais (Libras) utilizando visão computacional e aprendizado de máquina. O sistema é capaz de capturar gestos em tempo real através de uma webcam e reconhecer as letras do alfabeto em Libras.
 
+
+# Feito por 
+
+João Antonio Rihan rm99656 
+
+Rodrigo Fernandes rm550816 
+
+Eric Rodrigues rm550249 
+
+Victória Pizza rm550609
+
 ## Estrutura do Projeto
 
 ```
