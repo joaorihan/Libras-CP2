@@ -1,0 +1,14 @@
+path="requirements.txt"
+python=3.8
+Flask==2.0.2
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==1.0.0
+WTForms==2.3.3
+SQLAlchemy==1.4.25
+holidays==0.12.1
+pandas==1.3.5
+numpy==1.21.2
+requests==2.26.0
+jwt==1.7.1
+flask_jwt_extended==4.1.0
+tzlocal==3.0
